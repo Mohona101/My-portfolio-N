@@ -1,0 +1,57 @@
+body{
+  margin: 0;
+  padding:0;
+}
+body{
+  line-height: 1.6;
+  background-color:white;
+}
+header{
+  background-color: skyblue;
+  text-align: center;
+  padding: 0px;
+}
+
+header nav ul{
+  list-style: none;
+  display:flex;
+  text-decoration: none;
+  justify-content: center ;
+  text-align: center;
+}
+
+header nav ul li {
+  margin: 0px 10px;
+}
+
+section {
+  margin-top: 10px;
+  background-color:#daddaa;
+  text-align:center;
+  padding: 10px;
+}
+
+h1{
+  text-align: center;
+  color: black;
+}
+
+.home{
+  margin: 5px;
+}
+
+.contact{
+  border:solid 2px yellow;
+
+  text-align:center;
+}
+
+footer{
+  text-align: center;
+  color:black;
+  background-color:white ;
+  border:dotted 1px lightpink;
+  margin: 10px 10px;
+ 
+  
+}
